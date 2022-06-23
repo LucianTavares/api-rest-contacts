@@ -1,0 +1,11 @@
+{
+  "env": {
+    "MYSQL_USER": "root",
+    "MYSQL_PASSWORD": "admin",
+    "MYSQL_DATABASE": "mercafacilDb",
+    "MYSQL_HOST": "mysql",
+    "MYSQL_PORT": 3306,
+
+    "JWT_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NTUwODI5MzIsImV4cCI6MTY1NTA4NjUzMn0.wvElCDvhos3z1RW2DtV31eEoDB_lQYw_q279kTVUkhw"
+  }
+}
